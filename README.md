@@ -2,13 +2,22 @@
     <img src ="assets/images/intro.jpg" width = 10% height= "10%">
 
     Hi, 我是 Lester ，我是一名專職專案管理以及軟體系統開發者。
-
 <div>
 
-### 因地制宜的合作模式：
-* 若您是公司行號：我們會根據您的預算、專案的需求狀況、以及緊急程度，提供不同的協助方式，若需要進一步的暸解，歡迎與我們聯絡討論。
-* 若您是前端工程的團隊，需要後端的開發協助，歡迎隨時與我們聯絡合作。
+### 快速導覽
+- <a href='#cooperation'>合作模式</a><br>
+- <a href='#skill'>專業技能</a><br>
+- <a href='#contact'>聯絡我們</a><br>
+- <a href='quote'>報價方式</a>
 
+<div id= '#cooperation'>
+
+### 因地制宜的合作模式：
+* 若您是公司行號或是獨立製作的團隊：我們會根據您的預算、專案的需求狀況、以及緊急程度，提供不同的協助方式，若需要進一步的暸解，歡迎與我們聯絡討論。
+* 若您是前端工程的團隊，需要後端的開發協助，歡迎隨時與我們聯絡合作。
+</div>
+
+<div id='skill'>
 ### 我們擁有下列的專業技能，能提供您的公司/專案/功能相關的協助。
 * 視窗程式的開發(WinForm - C#/VB)
 * 後端的程式開發，以及串接作業(WebAPI)
@@ -37,6 +46,7 @@
 
         ※上述內容，有可能依溝通的過程中，會有所變動，但基礎會是以這個為準
 
+<div id ='quote'>
 
 ### 報價方式：
 * 依專案的規模進行報價。
@@ -46,15 +56,19 @@
 * 售後維護合約。
 
         每個專案在保固期結束後，您可以決定是否付費使用我們為您提供的服務。
+
+</div>
+
 ### 可否提供發票開立：
 * 可以的，我們是有提供發立發票的作業。
 
+<div id='contact'>
 
 ### 您可以透過下列方式連絡到我：
 * Facebook粉絲專頁： [萊客思資訊工作室的Facebook](https://www.facebook.com/croxinc.studio) , 或是輸入連結：https://www.facebook.com/croxinc.studio
 
 * Instagram: [萊客思資訊工作室的Instagram](https://www.instagram.com/croxinc.studio)，或是輸入連結：https://www.instagram.com/croxinc.studio
-* 郵件： coffeeplus7@gmail.com
+* 郵件： croxinc.studio@gmail.com
 * LINE@：@134sbzgh (打開加入好友的頁面，並輸入 @134sbzgh )
 
 <img src ="assets/images/addline.png">
