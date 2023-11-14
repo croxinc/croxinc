@@ -18,6 +18,7 @@
 </div>
 
 <div id='skill'>
+    
 ### 我們擁有下列的專業技能，能提供您的公司/專案/功能相關的協助。
 * 視窗程式的開發(WinForm - C#/VB)
 * 後端的程式開發，以及串接作業(WebAPI)
@@ -63,6 +64,7 @@
 * 可以的，我們是有提供發立發票的作業。
 
 <div id='contact'>
+
 ### 您可以透過下列方式連絡到我：
 * Facebook粉絲專頁： [萊客思資訊工作室的Facebook](https://www.facebook.com/croxinc.studio) , 或是輸入連結：https://www.facebook.com/croxinc.studio
 
